@@ -1,0 +1,6 @@
+name: untitled2
+version: '1.0-SNAPSHOT'
+main: com.sa1f.untitled2.VanishPlugin
+api-version: '1.21'
+commands:
+  vanish:
